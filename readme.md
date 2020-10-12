@@ -1,5 +1,5 @@
 【立ち上げ方】
-docker-compose up 　
+docker-compose up -d
 
 でdockerコンテナを起動しバックグラウンドモードにする。
 お手元のブラウザに”127.0.0.1:8888”を検索し実行すると、
