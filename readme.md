@@ -12,4 +12,5 @@ srcフォルダに利用したいcsvファイルなどをいれると読み込�
 requirements.txtに任意のライブラリを指定。
 その後、”docker exec -it notebook bash" でコンテナに入ったのちにpip install を行う
 
+参考文献
 https://qiita.com/hgaiji/items/edf71435d0565257f980
