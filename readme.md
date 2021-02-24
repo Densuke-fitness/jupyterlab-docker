@@ -8,6 +8,10 @@ srcのリソースがworkディレクトリにマウントされた状態でnote
 ## 【コンテナの止め方】
 docker stop notebook
 
+
+## 【コンテナの再スタート】
+docker start notebook
+
 ## 【ボリュームのマウント】
 srcフォルダに利用したいcsvファイルなどをいれpandasを利用すると読み込むこともできる。
 
